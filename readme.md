@@ -1,7 +1,7 @@
 #skwSlider 0.1.0
 ##Another jQuery slider. 
 
-###This is a simple liberary made from codepen: http://codepen.io/suez/pen/gadLre
+###This is a simple library made from codepen: http://codepen.io/suez/pen/gadLre
 ###Why it's cool? See example to find out
 
 ###License
@@ -39,9 +39,9 @@ Released under the MIT license - http://opensource.org/licenses/MIT
 </ul>
 ```
 
-###Step 3: Call the bxSlider
+###Step 3: Call the skwSlider
 
-Call .bxSlider() on `<ul class="bxslider">`. Note that the call must be made inside of a $(document).ready() call, or the plugin will not work!
+Call .skwSlider() on `<ul class="skwslider">`. Note that the call must be made inside of a $(document).ready() call, or the plugin will not work!
 
 ```javascript
 $(document).ready(function(){
